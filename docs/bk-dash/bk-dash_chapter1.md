@@ -1,4 +1,4 @@
-## 第三章：1 PYTHON 刷新器
+## 第一章：1 PYTHON 刷新器
 
 ![](img/opener-img.png)
 

@@ -1,4 +1,4 @@
-## 第二十章：NUMPY: 数值计算 Python**
+## 第十八章：NUMPY: 数值计算 Python**
 
 ![image](img/common.jpg)
 

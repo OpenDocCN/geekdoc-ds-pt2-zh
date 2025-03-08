@@ -1,4 +1,4 @@
-## 第八章：JUPYTERLAB：你的科学中心**
+## 第六章：JUPYTERLAB：你的科学中心**
 
 ![image](img/common.jpg)
 

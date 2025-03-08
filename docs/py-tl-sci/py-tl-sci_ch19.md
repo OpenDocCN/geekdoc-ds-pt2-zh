@@ -1,4 +1,4 @@
-## 第二十一章：**解密 MATPLOTLIB**
+## 第十九章：**解密 MATPLOTLIB**
 
 ![image](img/common.jpg)
 

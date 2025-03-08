@@ -1,4 +1,4 @@
-## 第四章：使用 **Conda 环境保持组织**
+## 第二章：使用 **Conda 环境保持组织**
 
 ![image](img/common.jpg)
 

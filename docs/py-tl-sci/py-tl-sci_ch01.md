@@ -1,4 +1,4 @@
-## 第三章：安装和启动 Anaconda**
+## 第一章：安装和启动 Anaconda**
 
 ![image](img/common.jpg)
 
