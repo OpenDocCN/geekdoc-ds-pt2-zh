@@ -2,6 +2,7 @@
 +   [随机性的艺术](docs/art-rdm/README.md)
 +   [Dash 手册](docs/bk-dash/README.md)
 +   [Python 数学指南](docs/do-math-py/README.md)
++   [JavaScript 数据结构与算法](docs/dsal-js/README.md)
 +   [深入浅出算法](docs/dvit-algo/README.md)
 +   [深入浅出数据科学](docs/dvit-ds/README.md)
 +   [快乐方法学图算法](docs/gph-algo-fun-way/README.md)
