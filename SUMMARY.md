@@ -1,4 +1,5 @@
 +   [算法思维](docs/algo-thk/README.md)
++   [艺术家的编程指南](docs/art-gd-prog/README.md)
 +   [随机性的艺术](docs/art-rdm/README.md)
 +   [Dash 手册](docs/bk-dash/README.md)
 +   [Python 数学指南](docs/do-math-py/README.md)
@@ -6,6 +7,7 @@
 +   [深入浅出算法](docs/dvit-algo/README.md)
 +   [深入浅出数据科学](docs/dvit-ds/README.md)
 +   [快乐方法学图算法](docs/gph-algo-fun-way/README.md)
++   [函数式编程语言与物理学习指南](docs/lrn-phy-fp/README.md)
 +   [Python 可视化学习指南](docs/lrn-py-vis/README.md)
 +   [深度学习的数学](docs/math-dl/README.md)
 +   [Python 数学冒险指南](docs/math-itrd-py/README.md)
